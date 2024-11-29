@@ -1,0 +1,1 @@
+# Pimcore on kubernetes - a simple setup
